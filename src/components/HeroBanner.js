@@ -36,7 +36,7 @@ const HeroBanner = () => {
           opacity: 0.1,
           display: { lg: "block", xs: "none" },
         }}
-        mt={-6}
+        mt="-6px"
         fontSize="200px"
       >
         Exercises
